@@ -41,7 +41,7 @@ patches, Will Dyson for the patches, and all the people who give feedbacks.
 
 ## Installation and requirements
 
-See `INSTALL.md` for things dealing with the install process.
+See [INSTALL.md](INSTALL.md) for things dealing with the install process.
 Once installed, see `dislocker(1)` for details on how to use it.
 
 
